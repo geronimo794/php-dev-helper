@@ -1,5 +1,5 @@
 {
-    "name": "geronimo794/php-dev-helpers",
+    "name": "geronimo794/php-simple-dev-helpers",
 	"description": "Just short call for var_dump and exit. etc. etc. Just use the dev-master version.",
 	"license": "MIT",
 	"type": "helpers",
