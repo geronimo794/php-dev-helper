@@ -1,6 +1,6 @@
 {
     "name": "geronimo794/php-dev-helper",
-    "description": "Just short call of var_dump and exit",
+    "description": "Just short call for var_dump and exit. etc. etc.",
     "require": {
         "php": "^5.6.37 || ^7.0",
         "another-vendor/package": "1.*"
