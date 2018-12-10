@@ -1,6 +1,7 @@
 {
     "name": "geronimo794/php-dev-helper",
-    "description": "Just short call for var_dump and exit. etc. etc.",
+	"description": "Just short call for var_dump and exit. etc. etc.",
+	"license": "MIT",
     "require": {
         "php": "^5.6.37 || ^7.0",
         "another-vendor/package": "1.*"
