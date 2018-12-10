@@ -1,10 +1,13 @@
 {
     "name": "geronimo794/php-dev-helper",
-	"description": "Just short call for var_dump and exit. etc. etc.",
+	"description": "Just short call for var_dump and exit. etc. etc. Just use the dev-master version.",
 	"license": "MIT",
 	"type": "helpers",
 	"version": "0.1.0",
     "require": {
 		"php": "^5.6.37 || ^7.0" 
-	}
+	},
+	"autoload": {
+        "files": ["Devhelper.php"]
+    }
 }
