@@ -3,7 +3,6 @@
 	"description": "Just short call for var_dump and exit. etc. etc.",
 	"license": "MIT",
     "require": {
-        "php": "^5.6.37 || ^7.0",
-        "another-vendor/package": "1.*"
-    }
+		"php": "^5.6.37 || ^7.0" 
+	}
 }
