@@ -3,7 +3,7 @@
 	"description": "Just short call for var_dump and exit. etc. etc. Just use the dev-master version.",
 	"license": "MIT",
 	"type": "helpers",
-	"version": "1.0.0",
+	"version": "1.1.0",
     "require": {
 		"php": "^5.6.37 || ^7.0" 
 	},

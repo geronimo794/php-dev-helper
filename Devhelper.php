@@ -4,4 +4,10 @@ if(!function_exists('vde')){
 		var_dump($variable); exit();
 	}	
 }
+if(!function_exists('vd')){
+	function vd($variable){
+		var_dump($variable);
+	}	
+}
+
 ?>
