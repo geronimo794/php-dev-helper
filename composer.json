@@ -5,7 +5,7 @@
 	"type": "helpers",
 	"version": "1.1.1",
     "require": {
-		"php": "^5.6.37 || ^7.0" || ^8.0" 
+		"php": "^5.6.37 || ^7.0 || ^8.0" 
 	},
 	"autoload": {
         "files": ["Devhelper.php"]
